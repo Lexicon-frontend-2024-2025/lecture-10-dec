@@ -12,7 +12,7 @@ Tema: Studenter kan få visa valfri lösning på Animation Bootcamp. Deadline p�
 * 09:30 – 10:45 – Studentpresentationer:
     - Studenter visar sina lösningar på Animation Bootcamp.
     - Diskutera olika tillvägagångssätt och lösningar.
-    - Lärare visar lösningsförslag: [Lösningsförslag hittas här:]().
+    - Lärare visar lösningsförslag från codepen.
      
  ## 10:45 – 11:00 – Paus
 
